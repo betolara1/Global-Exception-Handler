@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>com.betolara1</groupId>
 	<artifactId>Global-Exception-Handler</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<version>1.0.0</version>
+	<name>Global-Exception-Handler</name>
+	<description>Biblioteca Spring Boot para centralização e padronização de tratamento de exceções em microserviços Java.</description>
 	<url/>
 	<licenses>
 		<license/>
